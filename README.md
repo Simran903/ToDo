@@ -1,10 +1,12 @@
-To start the Development Server, run:
+#🚀 Getting Started
+
+## To start the Development Server, run:
 npm run dev
-# or
+### or
 yarn dev
 
 
-Folder Structure:
+## Folder Structure:
 react-vite-starter/
 ├── public/              # Public assets and HTML template
 ├── src/                 # Source code
